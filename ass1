@@ -14,13 +14,13 @@ else:
     
     output:
     enter student number:1
-enter student name:qwerty
-enter student group:ece
-maths marks:23
-electronics marks:23
-computer science marks:23
-english marks:23
-hindi marks:23
-sdc marks:23
+enter student name:star
+enter student group:mecs
+maths marks:50
+electronics marks:63
+computer science marks:53
+english marks:43
+hindi marks:21
+sdc marks:54
 fail
 > 
